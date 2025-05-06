@@ -5,4 +5,6 @@ body {
 footer {
     background-color: white;
     color: black;
+    position: fixed;
+    bottom: 0;
 }
