@@ -1,5 +1,6 @@
 body {
-      background-color: rgb(248, 213, 224);
+      background: url('bg-desktop.webp');
+
 }
 
 #container {
