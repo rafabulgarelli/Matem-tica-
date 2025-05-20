@@ -19,7 +19,7 @@ body {
     }
 
     .cartao__conteudo h3{
-        background-color: antiquewhite;
+        background-color: rgb(250, 215, 234);
         text-align:left;
         padding: 0.5rem;
         position: absolute;
