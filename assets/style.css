@@ -20,6 +20,12 @@ body {
         transition: transform 300ms ease-in-out;
     }
 
+    .cartao__conteudo p {
+
+        margin-top: 1rem;
+        padding: 2rem;
+    }
+
     .cartao__conteudo__pergunta p {
         color: rgb(71, 21, 49);
         font-weight: 500;
