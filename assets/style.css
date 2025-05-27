@@ -21,6 +21,9 @@ body {
     .cartao__conteudo__pergunta {
         color: rgb(71, 21, 49);
     }
+    .cartao__conteudo__resposta {
+        color: rgb(88, 26, 61);
+    }
 
     .cartao__conteudo h3{
         background-color: rgb(253, 209, 235);
