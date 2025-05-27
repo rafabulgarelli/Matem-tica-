@@ -18,6 +18,10 @@ body {
         height: 100%;
     }
 
+    .cartao__conteudo__pergunta {
+        background-color: rgb(61, 17, 41);
+    }
+
     .cartao__conteudo h3{
         background-color: rgb(253, 209, 235);
         text-align:left;
