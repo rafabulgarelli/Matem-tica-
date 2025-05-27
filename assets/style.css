@@ -18,11 +18,13 @@ body {
         height: 100%;
     }
 
-    .cartao__conteudo__pergunta {
+    .cartao__conteudo__pergunta p {
         color: rgb(71, 21, 49);
+        font-weight: 500;
     }
-    .cartao__conteudo__resposta {
+    .cartao__conteudo__resposta p {
         color: rgb(88, 26, 61);
+        font-weight: 700;
     }
 
     .cartao__conteudo h3{
